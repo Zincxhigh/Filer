@@ -25,7 +25,7 @@ Say hello to the new tool I created Called filer, this tool allows users to be r
 
 ---
 
-### Running from the Source
+### Running from the Code
 If you want to contribute to the code feel free to do so.
 1.  **Clone** the repo.
 3.  **Install dependencies**:
