@@ -12,7 +12,7 @@ Say hello to the new tool I created Called filer, this tool allows users to be r
 ---
 
 ### How to Use:
-1.  **Paste Path**: Copy the folder path you want to organize (e.g., `C:\Users\Downloads`) but remmeber to use (/) instead of (\).
+1.  **Paste Path**: Copy the folder path you want to organize (e.g., `C:\Users\Downloads`) but remmeber to use a slash (/) instead of a backlash (\).
 2.  **Click Sort Now**: Now it will sort everything in that directory
 
 ---
