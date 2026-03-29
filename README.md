@@ -1,33 +1,42 @@
-# 📂 Filer: Your Desktop Hero!
+#  Filer:
 
-Say goodbye to messy folders forever! **Auto-Organize** is a powerful Python tool that watches your messy directories and automatically snaps files into their perfect homes. 
-
----
-
-### 🌟 What it does:
-*   **One-Click Sorting**: Instant cleanup for images, documents, and CAD files for my hackclub participents.
-*   **Smart Folders**: Automatically creates organized folders so you don't have to and organizes all the files from images to CAD.
-*   **Hourly Folders**: Set it to run every hour and keep your space clean all the time no more messy disks.
+Say hello to the new tool I created Called filer, this tool allows users to be rid of the repatitive task of organizng now you don't have to be a mess
 
 ---
 
-### 😁 How to Use:
-1.  **Download**: Head over to the [Releases](https://github.com) tab and grab `app.exe`.
-2.  **Paste Path**: Copy the folder path you want to organize (e.g., `C:\Users\Downloads`) but remmeber to use (/) instead of (\).
-3.  **Click Sort Now**: Watch the magic happen! 🎊
+### What it does:
+*   **One-Click Sorting**: Instant cleanup for images, documents,CAD and text files.
+*   **Folders**: Automatically creates organized folders so you don't have to and organizes all the files from images to CAD.
+*   **Hourly Folders**: You can set it to run every hour and keep your space clean all the time.
 
 ---
 
-### 🪛 Running from the Source
-If you're a developer and want to play with the code feel free to do anything I would love some help:
+### How to Use:
+1.  **Paste Path**: Copy the folder path you want to organize (e.g., `C:\Users\Downloads`) but remmeber to use (/) instead of (\).
+2.  **Click Sort Now**: Now it will sort everything in that directory
+
+---
+### Backend:
+1.Python
+
+### Frontend:
+1.tkinter
+2.customtkinter
+
+---
+
+### Running from the Source
+If you want to contribute to the code feel free to do so.
 1.  **Clone** the repo.
-2.  **Install dependencies**:
+3.  **Install dependencies**:
     ```bash
+    
     pip install schedule
     pip install customtkinkert
+    
     ```
-3.  **Run it**: `python app.py`
+4.  **Run it**: `python app.py`
 
 ---
 
-*Made with ❤️ using Python & Tkinter I really enjoyed making this.*
+
