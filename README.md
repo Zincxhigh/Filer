@@ -29,13 +29,14 @@ Say hello to the new tool I created Called filer, this tool allows users to be r
 If you want to contribute to the code feel free to do so.
 1.  **Clone** the repo.
 3.  **Install dependencies**:
+   
     ```bash
     
     pip install schedule
-    pip install customtkinkert
+    pip install customtkinter
     
     ```
-4.  **Run it**: `python app.py`
+5.  **Run it**: `python app.py`
 
 ---
 
