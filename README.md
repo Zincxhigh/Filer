@@ -17,11 +17,11 @@ Say hello to the new tool I created Called filer, this tool allows users to be r
 
 ---
 ### Backend:
-1.Python
+1. Python
 
 ### Frontend:
-1.tkinter
-2.customtkinter
+1. tkinter
+2. customtkinter
 
 ---
 
